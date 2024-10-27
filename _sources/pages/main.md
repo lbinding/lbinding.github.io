@@ -27,7 +27,7 @@
 <br style="clear: left;">
 
  <p style="float: left; margin-right: 15px;"><img src="../_static/img/VyteJan.jpg" height="140px" width="140px" "></p>
-    <p> Vyte Janiukstyte (She/Her) joined Lawrence as a Masters student in 2021. Her focus was on mapping the anatomy and functional correlations of a fibre bundle known as the inferior fronto-occiptal fasciculus. She is now undertaking a Ph.D. at Newcastle University with Professor Peter Taylor. </p>
+    <p> Vyte Janiukstyte (She/Her) joined Lawrence as a Masters student in 2020. Her focus was on mapping the anatomy and functional correlations of a fibre bundle known as the inferior fronto-occiptal fasciculus. She is now undertaking a Ph.D. at Newcastle University with Professor Peter Taylor. </p>
 
 <br style="clear: left;">
 
