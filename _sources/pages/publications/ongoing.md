@@ -1,6 +1,6 @@
 # Ongoing Work
 
-<p> I am currently developing several projects at various stages of completion. While I am unable to publicly share the code for some of these ongoing projects, I welcome requests for demonstrations of my work. Please feel free to reach out, and I would be happy to share these as examples of my efforts.</p>
+<p> I am currently developing several projects at various stages of completion. While I am unable to publicly share the code for some of these ongoing projects, I welcome requests for demonstrations of my work. Please feel free to reach out, and I would be happy to share snippets as examples of my efforts.</p>
 
 ## White matter fibre bundles and memory 
 <p> In this project, we investigated the relationship between white matter fiber bundles and both immediate and delayed postoperative verbal memory. Based on our findings and existing literature, we propose a direct route for memory function, mediated by the Fornix, and an indirect route, facilitated by the Ventral Cingulum. This project is currently under review at Brain. </p>
