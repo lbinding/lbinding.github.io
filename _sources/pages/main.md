@@ -14,19 +14,19 @@
 ---
 
 ## My Team
- <p style="float: left; margin-right: 15px;"><img src="../_static/img/SherryLiu.jpg" height="140px" width="140px" "></p>
+ <p style="float: left; margin-right: 15px;"><img src="../_static/img/sherryliu.jpg" height="140px" width="140px" "></p>
     <p> Sherry Liu (She/Her) joined Lawrence in as a Ph.D. student in 2024. Her focus is on mapping the underlying white matter anatomy and incorporating tractography into EpiNav software. </p >
 <br style="clear: left;">
 
- <p style="float: left; margin-right: 15px;"><img src="../_static/img/YaqiJi.jpg" height="140px" width="140px" "></p>
+ <p style="float: left; margin-right: 15px;"><img src="../_static/img/yaqiji.jpg" height="140px" width="140px" "></p>
     <p> Yaqi Ji (She/Her) joined Lawrence in as a Masters student in 2021. Her focus was on reconstructing white matter fibre bundles and relating these to memory outcome. She is now undertaking a Ph.D. at the University of Californa (Berkeley). </p>
 <br style="clear: left;">
 
- <p style="float: left; margin-right: 15px;"><img src="../_static/img/LeqiSun.jpg" height="140px" width="140px" "></p>
+ <p style="float: left; margin-right: 15px;"><img src="../_static/img/leqisun.jpg" height="140px" width="140px" "></p>
     <p> Leqi Sun (She/Her) joined Lawrence as a Masters student in 2021. She focused on utilising normative modelling to identify patient-specific abnormalities relating to cognitive outcome. She went on to become a digital and Data Manager for the NHS, before becoming an Account Manager for TransPerfect Life Sciences in China. </p>
 <br style="clear: left;">
 
- <p style="float: left; margin-right: 15px;"><img src="../_static/img/VyteJan.jpg" height="140px" width="140px" "></p>
+ <p style="float: left; margin-right: 15px;"><img src="../_static/img/vytejan.jpg" height="140px" width="140px" "></p>
     <p> Vyte Janiukstyte (She/Her) joined Lawrence as a Masters student in 2020. Her focus was on mapping the anatomy and functional correlations of a fibre bundle known as the inferior fronto-occiptal fasciculus. She is now undertaking a Ph.D. at Newcastle University with Professor Peter Taylor. </p>
 
 <br style="clear: left;">
