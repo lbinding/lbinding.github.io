@@ -9,7 +9,7 @@ This contains highlights of my previous work to demonstrate my preivous skills. 
 
 ## Who am I?
  <p style="float: left;"><img src="../_static/img/Lawrence.jpg" height="120px" width="140px" style="padding-left: 10px; padding-right: 10px "></p>
-     <p>Lawrence Binding (He/him) completed his undergraduate degree in Psychology and then went on to study neuroimaging for his Masters mainly focused on language and TMS.</p>
+    <p>Lawrence Binding (He/him) completed his undergraduate degree in Psychology and then went on to study neuroimaging for his Masters mainly focused on language and TMS.</p>
         
     <p>He joined UCL in late 2019 to undertake his Ph.D. focused on reconstruction of white matter fibre bundles, identifying relevant fibre bundles to language function, and processing them for augmented visualisation within surgery for temporal lobe epilepsy.</p>
         
