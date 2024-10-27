@@ -27,4 +27,5 @@
 <p> I developed software designed to efficiently and automatically reconstruct connections between brain regions. This tool employed normative mapping to compare diffusion data from healthy controls with that of patients. As a result, it enabled the subdivision of tracts into their respective sub-fascicles. Our findings indicated that it reduced the need for manual interventions to less than 3%, in contrast to the next best method, which required manual input in over 60% of cases. Ongoing efforts are focused on expanding this normative database to include hundreds of healthy controls.</p>
 
 [Sample](https://github.com/lbinding/MemoryPaper)
+
 [Request Access](mailto:lawrence.binding@outlook.com)
