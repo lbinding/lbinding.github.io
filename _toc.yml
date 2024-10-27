@@ -3,7 +3,7 @@ root: pages/main
 parts:
 - caption: Work Overview
   chapters:
-  - file: pages/publications/publications_main
+  - file: pages/publications/publications
     title: Publications
   - file: pages/publications/ongoing
     title: Ongoing Work

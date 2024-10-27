@@ -9,7 +9,7 @@ exclude_patterns: [README.md, pages/notebooks/_template.ipynb, data/README.md]
 
 
 repository:
-  url: https://github.com/lbinding/lbinding.github.io/tree/main
+  url: https://github.com/lbinding/lbinding.github.io/
 
 html:
   use_issues_button: true
