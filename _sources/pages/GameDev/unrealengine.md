@@ -19,7 +19,7 @@
 <div style="text-align: center;">
     <p>The image above demonstrates a simplified version of the AI system inspired by *Alien: Isolation*. In this setup, the enemy AI’s aggressiveness increases each time it investigates a noise or event, causing it to roam closer to the player and heighten suspense. Once a certain aggressiveness level is reached, a timer begins to gradually reduce the AI’s intensity, giving the player a brief respite and allowing the suspense to build up again.</p>
 </div>
-
+ 
 ## Hide and Seek 
 <p style="text-align: center;">
     <img src="../../_static/img/LockerExample.jpg" height="400px" width="800px" style="display: block; margin: 0 auto;">
