@@ -1,5 +1,5 @@
 # Ongoing Work
-
+s
 <p> I am currently developing several projects at various stages of completion. While I am unable to publicly share the code for some of these ongoing projects, I welcome requests for demonstrations of my work. Please feel free to reach out, and I would be happy to share snippets as examples of my efforts.</p>
 
 ## White matter fibre bundles and memory 
