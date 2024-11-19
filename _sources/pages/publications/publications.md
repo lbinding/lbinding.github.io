@@ -1,7 +1,7 @@
 # Publications
 
 ## 2024 
-- Sablk, Fleury, **Binding*** et al., 2024. Long‐term neuroplasticity in language networks after anterior temporal lobe resection. Epilepsia. 
+- Sablk, Fleury, **Binding** et al., 2024. Long‐term neuroplasticity in language networks after anterior temporal lobe resection. Epilepsia. 
 [Read the full article](https://onlinelibrary.wiley.com/doi/full/10.1111/epi.18147)
 
 - Liu*, **Binding*** et al., 2024. Microangiopathy in temporal lobe epilepsy with diffusion MRI alterations and cognitive decline. Acta Neuropathologica. 
