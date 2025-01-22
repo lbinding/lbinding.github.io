@@ -7,9 +7,7 @@
 ## Overview
  <p style="float: left; margin-right: 15px;"><img src="../_static/img/lawrence.jpg" height="140px" width="140px"></p>
     <p style="margin-left: 160px;">I completed my undergraduate degree in Psychology and my Master’s in Neuroimaging. I joined UCL in late 2019 to pursue a PhD focused on reconstructing white matter fibre bundles, identifying those relevant to language function, and processing them for augmented visualisation during surgery for temporal lobe epilepsy.
-
     After completing my PhD, I took on a six-month Computational Research Fellow position, where I focused on neuropathology correlations with computational MRI metrics and employed unsupervised machine learning to identify subtypes of cognitive outcomes in temporal lobe epilepsy.
-
     I am now a Computational Modelling and Machine Learning Research Fellow at the Hawkes Centre (UCL). My work centres on developing unsupervised disease progression modelling techniques for patients with mixed pathology in Alzheimer’s disease. 
     </p>
 <br>
