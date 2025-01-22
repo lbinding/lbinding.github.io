@@ -10,7 +10,8 @@
 
     After completing my PhD, I took on a six-month Computational Research Fellow position, where I focused on neuropathology correlations with computational MRI metrics and employed unsupervised machine learning to identify subtypes of cognitive outcomes in temporal lobe epilepsy.
 
-    I am now a Computational Modelling and Machine Learning Research Fellow at the Hawkes Centre (UCL). My work centres on developing unsupervised disease progression modelling techniques for patients with mixed pathology in Alzheimer’s disease. </p>
+    I am now a Computational Modelling and Machine Learning Research Fellow at the Hawkes Centre (UCL). My work centres on developing unsupervised disease progression modelling techniques for patients with mixed pathology in Alzheimer’s disease. 
+    </p>
 <br>
 
 ---
