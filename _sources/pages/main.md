@@ -1,7 +1,7 @@
 
 <div style="text-align: center; margin: 20px;"> <!-- Adjust the margin as needed -->
     <h1 style="margin: 0;">Welcome!</h1> <!-- Set margin to zero -->
-    <p style="margin-top: 10px;">This website contains information on my publications, on-going academic work, and personal projects. Please see below for a brief summary of my career trajectory and members, new and old, of Binding's Brains!</p>
+    <p style="margin-top: 10px;">This website contains information on my publications, on-going academic work, and personal projects. Please see below for a brief summary of my career trajectory and members, new and old, of Binding's Brains (my lab)!</p>
 </div>
 
 ## Overview
