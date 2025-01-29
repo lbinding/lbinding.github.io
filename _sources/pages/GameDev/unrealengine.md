@@ -4,7 +4,7 @@
     <img src="../../_static/img/ExampleGameplay.jpg" height="400px" width="500px" style="display: block; margin: 0 auto;">
 </p>
 <div style="text-align: center;">
-    <p>The image above shows a debug level where I test all the functions in a controlled environment. This setup includes some custom-made assets (like the hallway where the character stands), an enemy, various sounds, and interactable objects such as lockers and doors. The aim is to refine each element in this debug setting so that building the actual levels will be as straightforward as possible (famous last words!).</p>
+    <p> The image above shows the AI debug level where I test all the programmed AI behaviours in a controlled and complex environment. This setup includes some custom-made assets (like the hallway where the character stands), an enemy, various sounds, and interactable objects such as lockers and doors. The aim is to refine each element in this debug setting so that building the actual levels will be as straightforward as possible (famous last words!).</p>
 </div>
 
 <br>

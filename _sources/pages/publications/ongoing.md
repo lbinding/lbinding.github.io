@@ -2,28 +2,23 @@
 
 <p> I am currently developing several projects at various stages of completion. Whilst I am unable to publicly share the code for some of these ongoing projects, I welcome requests for demonstrations of my work. Please feel free to get in touch, and I would be happy to share snippets as examples of my efforts. </p>
 
+## AddiPath 
+<p>In this project, I have developed novel soon-to-be open-source software designed to disentangle the contributions of additional pathology to biomarkers influenced by multiple pathologies in Alzheimer’s disease. AddiPath leverages disease progression modelling principles (Subtype and Stage Inference, SuStaIn), to infer the relative contributions of primary pathology (e.g., tau deposition detected via tau-PET) and additional pathology (e.g., TDP-43) to cortical atrophy. This approach offers a major advancement in identifying patients with mixed pathology, enabling improved patient stratification for clinical trials and paving the way for more targeted treatments tailored to the present pathology.</p>
+
+[Request Access](mailto:lawrence.binding@outlook.com)
+
 ## White matter fibre bundles and memory 
-<p>In this project, we investigated the relationship between white matter fibre bundles and both immediate and delayed postoperative verbal memory. Based on our findings and existing literature, we propose a direct route for memory function, mediated by the Fornix, and an indirect route, facilitated by the Ventral Cingulum. This project is currently under review at *Brain*.</p>
+<p>In this project, we explored the relationship between white matter fibre bundles and both immediate and delayed postoperative verbal memory. Drawing on our findings and existing literature, we propose a direct memory route mediated by the Fornix, alongside an indirect route facilitated by the Ventral Cingulum. This project is currently under review at *Brain*.</p>
 
 [View Github](https://github.com/lbinding/MemoryPaper)
 
-## Dual SuStaIn 
-<p>In this project, I have modified the existing SuStaIn software to implement dual model optimisation. This initiative is based on the relationship between Tau PET imaging and cortical thickness atrophy, where we anticipate that Tau contributes to cortical atrophy. By modelling this relationship through disease progression modelling, we aim to uncover atrophy that is not accounted for by Tau, potentially indicating mixed pathology.</p>
-
-[Request Access](mailto:lawrence.binding@outlook.com)
-
-
-## Residual SuStaIn
-<p> Similar to Dual SuStaIn, I am enhancing existing software to optimise residuals through disease progression modelling. This approach is based on the relationship between Tau-/FDG-PET imaging and cortical atrophy. By employing this method, we aim to improve the subtyping and progression patterns of patients with mixed pathology.</p>
-
-[Request Access](mailto:lawrence.binding@outlook.com)
-
-## DeepSuStaIn 
-<p> A challenge with zScore-SuStaIn is that the computation time increases exponentially with the number of biomarkers and the levels of abnormality. In this project, we aim to integrate multiple neural networks to enhance efficiency. Preliminary results indicate that models using over 20 biomarkers can achieve comparable performance whilst halving the runtime. </p>
-
-[Request Access](mailto:lawrence.binding@outlook.com)
-
 ## Anatomically Targeted Automated Tractography
-<p> I developed software designed to efficiently and automatically reconstruct connections between brain regions. This tool employed normative mapping to compare diffusion data from healthy controls with that of patients. As a result, it enabled the subdivision of tracts into their respective sub-fascicles. Our findings indicated that it reduced the need for manual interventions to less than 3%, in contrast to the next best method, which required manual input in over 60% of cases. Ongoing efforts are focused on expanding this normative database to include hundreds of healthy controls. </p>
+<p> I developed software aimed at efficiently and automatically reconstructing connections between brain regions. This tool utilised normative mapping to compare diffusion data from healthy controls with that of epilepsy patients, enabling the subdivision of tracts into their respective sub-fascicles. Our findings showed that it reduced the need for manual intervention to under 3%, compared to the next best method, which required manual input in over 60% of cases. This is now regularly implemented in surgical navigation software to avoid critical white matter structures. Ongoing efforts are focused on expanding this normative database to include data from hundreds of healthy controls. </p>
 
 [Release 0.1](https://github.com/lbinding/AT-AT)
+
+## DeepSuStaIn 
+<p> One challenge with zScore-SuStaIn is that its computation time increases exponentially with the number of biomarkers and the severity of abnormalities. In this project, we aim to integrate multiple neural networks to improve efficiency. Preliminary results suggest that models using over 20 biomarkers can achieve similar performance while reducing the runtime by half.</p>
+
+[Request Access](mailto:lawrence.binding@outlook.com)
+

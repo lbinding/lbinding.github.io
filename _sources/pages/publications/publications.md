@@ -1,5 +1,9 @@
 # Publications
 
+## 2025
+- Fleury, **Binding** et al., 2025. Long-Term Memory Plasticity: A Decade-Long Connectivity Study Post Anteiror Temporal Lobe Resection. Nature Communications. 
+[Read the full article](https://www.researchsquare.com/article/rs-3936758/v1)
+
 ## 2024 
 - Sablk, Fleury, **Binding** et al., 2024. Long‐term neuroplasticity in language networks after anterior temporal lobe resection. Epilepsia. 
 [Read the full article](https://onlinelibrary.wiley.com/doi/full/10.1111/epi.18147)
@@ -7,8 +11,6 @@
 - Liu*, **Binding*** et al., 2024. Microangiopathy in temporal lobe epilepsy with diffusion MRI alterations and cognitive decline. Acta Neuropathologica. 
 [Read the full article](https://link.springer.com/article/10.1007/s00401-024-02809-8)
 
-- Fleury, **Binding** et al., 2024. Long-Term Memory Plasticity: A Decade-Long Connectivity Study Post Anteiror Temporal Lobe Resection. Nature. 
-[Read the full article](https://www.researchsquare.com/article/rs-3936758/v1)
 
 - Trimmel, Vos, **Binding** et al., 2024. Naming fMRI-guided white matter language tract volumes influence naming decline after temporal lobe resection. Journal of Neurology. 
 [Read the full article](https://link.springer.com/article/10.1007/s00415-024-12315-2)
@@ -34,8 +36,8 @@
 --- 
 
 ## 2022 
-- Fleury*, Buck*, **Binding**, et al., 2022. Episodic memory network connectivity in temporal lobe epilepsy.
+- Fleury*, Buck*, **Binding**, et al., 2022. Episodic memory network connectivity in temporal lobe epilepsy. Epilepsia.
 [Read the full article](https://onlinelibrary.wiley.com/doi/full/10.1111/epi.17370)
 
-- **Binding**, et al., 2022. Structure and function of langauge networks in temporal lobe epilepsy. Epilepsia.  
+- **Binding**, et al., 2022. Structure and function of language networks in temporal lobe epilepsy. Epilepsia.  
 [Read the full article](https://onlinelibrary.wiley.com/doi/full/10.1111/epi.17204)
