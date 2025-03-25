@@ -1,6 +1,9 @@
 # Publications
 
 ## 2025
+- Otero-Jimenez, Wojewska, **Binding** et al., 2025. Neuropathological stages of neuronal, astrocytic and oligodendrocytic alpha-synuclein pathology in Parkinson’s disease. Acta Neuropathologica Communications. 
+[Read the full article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11816504/)
+
 - Fleury, **Binding** et al., 2025. Long-Term Memory Plasticity: A Decade-Long Connectivity Study Post Anteiror Temporal Lobe Resection. Nature Communications. 
 [Read the full article](https://www.researchsquare.com/article/rs-3936758/v1)
 
