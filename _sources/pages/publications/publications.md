@@ -1,6 +1,12 @@
 # Publications
 
 ## 2025
+- Wang, Feng, Xiao, Yang, Fleury, **Binding** et al., 2025. Distinct gray matter and metabolic characteristics in hypothalamic hamartoma network with different semiology. Epilepsia.
+[Read the full article](https://onlinelibrary.wiley.com/doi/10.1111/epi.18438)
+
+- Dasgupta, **Binding** et al., 2025. Improving Outcomes in Anteromesial Temporal Lobe Resections - A Demonstration of Resecting the Temporal Piriform Cortex. Jove.
+[Read the full article](https://app.jove.com/t/67124/improving-outcomes-anteromesial-temporal-lobe-resections)
+
 - Otero-Jimenez, Wojewska, **Binding** et al., 2025. Neuropathological stages of neuronal, astrocytic and oligodendrocytic alpha-synuclein pathology in Parkinson’s disease. Acta Neuropathologica Communications. 
 [Read the full article](https://pmc.ncbi.nlm.nih.gov/articles/PMC11816504/)
 
